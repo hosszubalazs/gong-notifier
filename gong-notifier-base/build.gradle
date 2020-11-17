@@ -4,6 +4,6 @@ dependencies {
     compile 'com.google.guava:guava:24.1-jre'
     compile group: 'commons-codec', name: 'commons-codec', version: '1.14'
 
-    testCompile 'junit:junit:4.12'
+    testCompile 'junit:junit:4.13.1'
     testCompile group: 'org.mockito', name: 'mockito-all', version: '1.10.19'
 }
